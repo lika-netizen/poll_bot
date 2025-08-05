@@ -1,5 +1,5 @@
 # poll_bot
-Чат-бот для опросов 
+
 git init
 git add .
 git commit -m "Initial commit"
